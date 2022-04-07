@@ -1,0 +1,5 @@
+package com.devsuperior.dsmove.services;
+
+public class MovieService {
+
+}

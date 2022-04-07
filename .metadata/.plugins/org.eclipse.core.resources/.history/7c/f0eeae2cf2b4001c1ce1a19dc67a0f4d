@@ -1,0 +1,5 @@
+package com.devsuperior.dsmove.dto;
+
+public class ScoreDTO {
+
+}
